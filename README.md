@@ -10,7 +10,7 @@ URL: **URL hosting của bài tập**
 
 Yêu cầu **GIT**:
 
-* [*] Có sử dụng GIT.
+* [x] Có sử dụng GIT.
 * [ ] Sử dụng GIT trên 1 branch.
 * [ ] Sử dụng GIT theo Centralized Workflow.
 * [ ] Sử dụng GIT theo Feature Branch Workflow.
@@ -18,24 +18,24 @@ Yêu cầu **GIT**:
 
 Danh sách các chức năng bắt buộc, nâng cao của đề tài:
 
-* [*] Đăng Nhập.
-* [*] Đăng Ký .
-* [*] Tìm kiếm từ.
-* [*] Dịch từ 
-* [*] Dịch Đoạn Văn Bản
-* [*] Phản hồi của người dùng , và yêu cầu sửa từ cho sát nghĩa
+* [x] Đăng Nhập.
+* [x] Đăng Ký .
+* [x] Tìm kiếm từ.
+* [x] Dịch từ 
+* [x] Dịch Đoạn Văn Bản
+* [x] Phản hồi của người dùng , và yêu cầu sửa từ cho sát nghĩa
 
 Danh Sách Thiết Kế " "
-* [*] Thiết kế với div.
-* [*] Thiết kế nâng cao
-    * [*] Navigation, header, footer, sidebar.
-    * [*] Các hiệu ứng: hover, focus,...
-* [ *] Thiết kế chạy trên nhiều trình duyệt
-    * [*] IE
-    * [*] Firefox
-    * [*  Chrome
-    * [*] Icon, màu sắc,...
-* [*] Thiết kế responsive
+* [x] Thiết kế với div.
+* [x] Thiết kế nâng cao
+    * [x] Navigation, header, footer, sidebar.
+    * [x] Các hiệu ứng: hover, focus,...
+* [x] Thiết kế chạy trên nhiều trình duyệt
+    * [x] IE
+    * [x] Firefox
+    * [x]  Chrome
+    * [x] Icon, màu sắc,...
+* [x] Thiết kế responsive
 
 
 
