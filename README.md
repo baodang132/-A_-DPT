@@ -1,11 +1,13 @@
 # DA_UDPT
 *KIm Từ Điểm * là một đồ án tại môn UDPT.
 
-Thành viên: **1312103-Lê Thái Dương
-		1312002-Diệp Hoàng Anh
-		1312132-Nguyễn Trần Thị Bảo Đăng
-		1312138-Trương Công Đoàn**
+Thành viên: **1312103-Lê Thái Dương**
+		**1312002-Diệp Hoàng Anh**
+		**1312132-Nguyễn Trần Thị Bảo Đăng**
+		**1312138-Trương Công Đoàn**
+		
 URL: **URL hosting của bài tập**
+
 
 ## Yêu cầu
 
