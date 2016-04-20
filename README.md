@@ -1,5 +1,5 @@
 # DA_UDPT
-*KIm Từ Điểm * là một đồ án tại môn UDPT.
+*Kim Từ Điển * là một đồ án tại môn UDPT.
 
 Thành viên: **1312103-Lê Thái Dương**
 		**1312002-Diệp Hoàng Anh**
